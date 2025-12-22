@@ -1,4 +1,4 @@
-# Personal CV Website
+# personal cv website
 
 ## Overview
 
